@@ -1,6 +1,6 @@
 # CryptoCurrencies
 
-## Project Overview ##
+## Project Overview
 
 Create an analysis for clients that are preparing to get into the cryptocurrency market.
 
@@ -14,17 +14,22 @@ The data we will be working with is not ideal, so it will need to be processed t
  - Deliverable 4: Visualizing Cryptocurrencies Results
 
 
-## Results ##
-Elbow Curve
+## Results
+
+### Elbow Curve
+
+![Elbow Curve](https://github.com/pnimma01/CryptoCurrencies/blob/8206724ce261a434dbddd49ab3e445afcee95341/Resources/Elbow_Curve.png)
 
 
-3D ScatterPlot
+### 3D ScatterPlot
 
 
-2D ScatterPlot
+### 2D ScatterPlot
+
+![2D Scatter Plot](https://github.com/pnimma01/CryptoCurrencies/blob/8206724ce261a434dbddd49ab3e445afcee95341/Resources/2D_Scatter_Plot.png)
 
 
-## Summary ##
+## Summary
 When reduced to three principal components and clustered using the K-Means model, the cryptocurrency data groups as follows:
 
 Class 0: Low PC 1, Medium PC2, Low PC3 
