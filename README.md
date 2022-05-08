@@ -23,6 +23,7 @@ The data we will be working with is not ideal, so it will need to be processed t
 
 ### 3D ScatterPlot
 
+3D Sctatter plot is not showing up, it worked earlier, but after tensorflow was uninstalled and installed, it stopped working. Please execute the code to show the plot.
 
 ### 2D ScatterPlot
 
